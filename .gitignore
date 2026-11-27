@@ -1,0 +1,8 @@
+# Siteye gerekmeyen ağır orijinal fotoğraflar (bilgisayarda kalır)
+celikoz-2.jpg
+celikoz-3.jpg
+*elikoz-1.jpg
+# Geçici test dosyaları
+_*
+Thumbs.db
+.DS_Store
