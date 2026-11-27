@@ -627,3 +627,5 @@ html,body{overflow-x:hidden}
 .ct-solo .ct-info>p{max-width:640px}
 .ct-solo .ct-list{grid-template-columns:repeat(3,1fr)}
 @media(max-width:900px){.ct-solo .ct-list{grid-template-columns:1fr}}
+
+.sv-block{scroll-margin-top:90px}

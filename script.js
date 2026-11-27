@@ -37,8 +37,8 @@ const footer = `
       <div>
         <h4>Hizmetler</h4>
         <ul>
-          <li>Konut Projeleri</li><li>Ticari Yapılar</li>
-          <li>Kentsel Dönüşüm</li><li>Taahhüt &amp; Renovasyon</li>
+          <li><a href="hizmetler.html#konut">Konut Projeleri</a></li><li><a href="hizmetler.html#ticari">Ticari Yapılar</a></li>
+          <li><a href="kentsel-donusum.html">Kentsel Dönüşüm</a></li><li><a href="hizmetler.html#taahhut">Taahhüt &amp; Renovasyon</a></li>
         </ul>
       </div>
       <div>
