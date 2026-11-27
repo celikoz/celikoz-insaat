@@ -629,3 +629,9 @@ html,body{overflow-x:hidden}
 @media(max-width:900px){.ct-solo .ct-list{grid-template-columns:1fr}}
 
 .sv-block{scroll-margin-top:90px}
+
+/* WhatsApp yüzen buton */
+.wa-float{position:fixed;right:22px;bottom:22px;z-index:90;display:flex;align-items:center;gap:10px;padding:13px 22px 13px 16px;border-radius:999px;background:#25d366;color:#fff;font-weight:700;font-size:.95rem;text-decoration:none;box-shadow:0 10px 28px rgba(0,0,0,.28);transition:transform .25s,box-shadow .25s,background .25s}
+.wa-float svg{width:28px;height:28px;flex:none}
+.wa-float:hover{transform:translateY(-3px);background:#1ebe5b;box-shadow:0 14px 32px rgba(0,0,0,.34);text-decoration:none}
+@media(max-width:700px){.wa-float{right:14px;bottom:14px;padding:12px;gap:0}.wa-float span{display:none}}

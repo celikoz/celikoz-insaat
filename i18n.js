@@ -52,6 +52,7 @@
     "Binanızı birlikte değerlendirelim": ["Let's assess your building together", "Evaluemos su edificio juntos"],
     "Binanızı yerinde inceleyelim, size en uygun dönüşüm yolunu birlikte belirleyelim.": ["Let us inspect your building on site and determine the most suitable renewal path together.", "Inspeccionemos su edificio in situ y determinemos juntos la vía de renovación más adecuada."],
     "Bize Ulaşın": ["Contact Us", "Contáctenos"],
+    "WhatsApp ile Ulaş": ["Chat on WhatsApp", "Escríbenos por WhatsApp"],
     "Bizi Biz Yapan İlkeler": ["The Principles That Define Us", "Los principios que nos definen"],
     "Bizi Tanıyın": ["Get to Know Us", "Conózcanos"],
     "Bu sayfa şablondur. Yayına almadan önce firma bilgilerinizi doldurun ve metni bir hukuk danışmanına onaylatın.": ["This page is a template. Fill in your company details and have the text reviewed by a legal advisor before publishing.", "Esta página es una plantilla. Complete los datos de la empresa y haga revisar el texto por un asesor jurídico antes de publicarlo."],
