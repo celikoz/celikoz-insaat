@@ -45,7 +45,7 @@ const footer = `
         <h4>İletişim</h4>
         <ul>
           <li>📍 Örnek Mah. Örnek Cad. No:1, Şehir</li>
-          <li>📞 0 (000) 000 00 00</li>
+          <li>📞 0531 923 11 47</li>
         </ul>
       </div>
     </div>
