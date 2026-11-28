@@ -637,7 +637,7 @@ html,body{overflow-x:hidden}
 @media(max-width:700px){.wa-float{right:14px;bottom:14px;padding:12px;gap:0}.wa-float span{display:none}}
 
 /* Kurumsal: Belgelerimiz */
-.k-docs{padding:90px 0 96px}
+.k-docs{padding:90px 0 96px;scroll-margin-top:80px}
 .k-doc-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:30px;max-width:980px;margin:0 auto}
 .k-doc{display:flex;flex-direction:column;border-radius:28px;overflow:hidden;background:#faf6f2;border:1px solid #efe6db;color:var(--ink);transition:transform .3s,box-shadow .3s}
 .k-doc:hover{transform:translateY(-6px);box-shadow:0 22px 48px rgba(158,69,8,.16);text-decoration:none}
@@ -652,3 +652,10 @@ html,body{overflow-x:hidden}
 .k-doc-btn svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
 .k-doc:hover .k-doc-btn{background:var(--orange-dark)}
 @media(max-width:800px){.k-docs{padding:60px 0 64px}.k-doc-grid{grid-template-columns:1fr;gap:22px}.k-doc-body{padding:22px 22px 26px}}
+
+/* Kurumsal banner: Belgelerimiz kısayolu */
+.k-hero-doc{display:inline-flex;align-items:center;gap:10px;margin-top:22px;padding:12px 24px;border-radius:50px;border:1.5px solid rgba(255,255,255,.7);color:#fff;font-weight:700;font-size:.8rem;letter-spacing:2px;text-transform:uppercase;transition:.25s;backdrop-filter:blur(4px)}
+.k-hero-doc svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;transition:transform .25s}
+.k-hero-doc:hover{background:var(--orange);border-color:var(--orange);text-decoration:none}
+.k-hero-doc:hover svg{transform:translateY(3px)}
+html{scroll-behavior:smooth}
