@@ -659,3 +659,7 @@ html,body{overflow-x:hidden}
 .k-hero-doc:hover{background:var(--orange);border-color:var(--orange);text-decoration:none}
 .k-hero-doc:hover svg{transform:translateY(3px)}
 html{scroll-behavior:smooth}
+
+/* İletişim: 4 bilgi kartı (2x2) */
+.ct-solo .ct-list{grid-template-columns:repeat(2,1fr)}
+@media(max-width:900px){.ct-solo .ct-list{grid-template-columns:1fr}}

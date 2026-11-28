@@ -46,6 +46,7 @@ const footer = `
         <h4>İletişim</h4>
         <ul>
           <li>📍 Örnek Mah. Örnek Cad. No:1, Şehir</li>
+          <li>🌍 Yurtdışı Ofis: Amber Gem Tower, 26. Kat, Ofis CWS-2V-227075, Sheikh Khalifa Street, Ajman, BAE</li>
           <li>📞 0531 923 11 47</li>
         </ul>
       </div>
